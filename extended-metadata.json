@@ -1,0 +1,44 @@
+{
+  "itn": {
+    "owner": "ed25519_pk14y46wcenxf2w5vppcu5kt3fh6juu9m8d080ar5m0fqnnueuvfykqwrdujz",
+    "witness": "ed25519_sig1qact0t004se6kq3x6a976gj5vc58rjedygq6znf4tkzt3fwm8z292pm6nt3a5kt8l367f4e8krehg0zzrd727nqmyw3eewpg95rg2zgj26yf9"
+  },
+       "info": {
+        "url_png_icon_64x64": "https://kficz.github.io/output-onlinepngtools.png",
+        "url_png_logo": "https://kficz.github.io/test.png",
+        "location": "United States",
+        "social": {
+            "twitter_handle": "Volt_Pool",
+            "telegram_handle": "VoltPool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "Voltairera"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "Growing the Cardano Ecosystem :)",
+            "company": "..."
+        },
+        "rss": ""
+    },
+    "my-pool-ids": [
+        "7e82a949dc775005761ec3446a9358261416cbdd8de2c6530cb3270b"   
+    ],
+    "when-satured-then-recommend": [
+        "7e82a949dc775005761ec3446a9358261416cbdd8de2c6530cb3270b",
+        "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef"
+    ],
+    "telegram-admin-handle": [
+        ""
+    ]
+}
